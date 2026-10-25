@@ -6,6 +6,12 @@ Aurora is a data analytics project demonstrating data preparation, SQL analysis,
 
 The project focuses on transforming a dataset into structured analysis and presenting relevant business metrics through a dashboard.
 
+## Dashboard Preview
+
+![Aurora Power BI Dashboard](images/PBI.png)
+
+The dashboard presents key business performance indicators and analytical views developed using Power BI. See the project documentation and published dashboard through the portfolio link below.
+
 ## Tools & Technologies
 
 - **SQL:** Data analysis, aggregation, KPI calculations, and churn-rate analysis.
